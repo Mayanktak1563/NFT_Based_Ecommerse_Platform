@@ -50,8 +50,8 @@ For the brands and retailers we have added a separate feature like they can add 
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/soumyajit4419"><img src="https://avatars2.githubusercontent.com/u/46092576?s=460&u=32c24b6d0308f5fdfff2ab740a9f525894edb582&v=4" width="100px;" alt=""/><br /><sub><b>Soumyajit Behera</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Rahul1582"><img src="https://avatars2.githubusercontent.com/u/47784845?s=400&u=1e9898b8c4b762fcda1f37864c16b5de11f885ce&v=4" width="100px;" alt=""/><br /><sub><b>Rahul Kumar Patro</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Arjita-Basu"><img src="https://avatars1.githubusercontent.com/u/50270580?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Arjita Basu</b></sub></a><br /></td> 
+    <td align="center"><a href="https://www.linkedin.com/in/mayanktak15/">" </td>
+    <td align="center"><a href="https://www.linkedin.com/in/khushibhati/"></td>
+    <td align="center"><a href="https://www.linkedin.com/in/manaswirajsharma/"></td> 
   </tr>
 </table>
